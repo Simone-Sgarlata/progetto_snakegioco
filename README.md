@@ -1,1 +1,1 @@
-this project is a snake game using python. You can play using the 4 directional button to move the snake.
+this project is a snake game using python. You can play using the 4 directional buttons to move the snake.
